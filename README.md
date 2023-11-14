@@ -56,8 +56,8 @@ To get started with the project, follow these steps:
 ![img](img/5.png)
 ![img](img/6.png)
 ![img](img/7.png)
-### Panel
 ![img](img/8.png)
+### Panel
 ![img](img/9.png)
 ![img](img/10.png)
 

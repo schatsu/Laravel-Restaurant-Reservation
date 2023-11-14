@@ -30,6 +30,13 @@ Category and menu URLs have been designed to be completely SEO-friendly, contrib
 ### Front-End Optimization
 I implemented a Laravel cache structure on the front end to enhance performance and provide a smoother user experience.
 
+## Getting Started
+To get started with the project, follow these steps:
+1. Clone the repository.
+2. Configure the Laravel queue system.
+3. Set up email notification settings.
+
+
 ## Packages and libraries
 1-For pictures
 ### https://fancyapps.com/

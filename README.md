@@ -7,15 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Screenshots
-![img](img/1.png)
-![img](img/2.png)
-![img](img/3.png)
-![img](img/4.png)
-![img](img/5.png)
-![img](img/6.png)
-![img](img/7.png)
-![img](img/8.png)
 
 ## Project description
 
@@ -48,4 +39,14 @@ I implemented a Laravel cache structure on the front end to enhance performance 
 ### https://github.com/spatie/laravel-sluggable
 4-For log-viewer
 ### https://github.com/opcodesio/log-viewer
+
+## Screenshots
+![img](img/1.png)
+![img](img/2.png)
+![img](img/3.png)
+![img](img/4.png)
+![img](img/5.png)
+![img](img/6.png)
+![img](img/7.png)
+![img](img/8.png)
 

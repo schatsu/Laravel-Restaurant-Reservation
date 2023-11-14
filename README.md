@@ -48,6 +48,7 @@ To get started with the project, follow these steps:
 ### https://github.com/opcodesio/log-viewer
 
 ## Screenshots
+### Site
 ![img](img/1.png)
 ![img](img/2.png)
 ![img](img/3.png)
@@ -55,5 +56,8 @@ To get started with the project, follow these steps:
 ![img](img/5.png)
 ![img](img/6.png)
 ![img](img/7.png)
+### Panel
 ![img](img/8.png)
+![img](img/9.png)
+![img](img/10.png)
 

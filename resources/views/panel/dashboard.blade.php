@@ -101,19 +101,6 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-12">
-            <div class="card">
-                <div class="card-header">
-                    <h5 class="card-title">Sütun Grafiği</h5>
-                </div>
-                <div class="card-body">
-                    <div id="apex3"></div>
-                </div>
-            </div>
-        </div>
     </div>
 @endsection
-@section('js')
-    <script src="{{asset('panel/assets/js/pages/charts-apex.js')}}"></script>
-    <script src="{{asset('panel/assets/plugins/apexcharts/apexcharts.min.js')}}"></script>
-@endsection
+
